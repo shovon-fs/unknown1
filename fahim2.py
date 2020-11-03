@@ -94,7 +94,7 @@ print  """\033[1;91m
       
  
 \033[1;96m Author  \033[1;93m: \033[1;92m FS SHOVON
-\033[1;96m TEAM \033[1;93m: \033[1;92 CYBER GANG
+\033[1;96m TEAM \033[1;93m: \033[1;92m CYBER GANG
 \033[1;96mFacebook  \033[1;93m: \033[1;92m UNKNOWN CODER
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/shovon-fs
 \033[1;91m======================================="""
